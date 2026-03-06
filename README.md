@@ -18,13 +18,14 @@ Para realizar esse teste,
 1 ª basta acessar > 2ª  cadastrar curso > 3ª  preencher todos os campos obrigatórios > 4ª  selecionando corretamente todas as opções e o seu curso será cadastrado na listagem de cursos  
 
 # RESULTADO ESPERADO: O CURSO APARECERÁ NA LISTAGEM (ALCANÇADO) 
-
+[Fluxo cadastro com sucesso](https://drive.google.com/file/d/1320PlBktSbW9gi9s6HKq2eTyHXJsBWc4/view?usp=sharing)
 
 
 
 # LISTAGEM:
 Para acessar é só clicar Listar cursos: já adianto a interface acho que está bugada provavelmente com containers maiores do que deveriam e não totalmente espaçados de um jeito esperado. 
-https://drive.google.com/file/d/1sHPZ5_G4Jc6awA7IEc_so3B6bo0tl6YU/view?usp=sharing 
+[Lista de cursos ](https://drive.google.com/file/d/1-Ga892SKvWPa5IoEnHZDDsy_LS3tfyQr/view?usp=sharing)
+
 
 # CENÁRIOS NEGATIVOS: 
 Resultados inesperados: 
@@ -113,7 +114,7 @@ Endereço pode aceitar palavras que não sejam endereços físicos mas sim palav
 
 3 ª Se você rolar a página para baixo e estiver com muitos cursos a página ficará dessa forma: 
 
-https://drive.google.com/file/d/1-JuF3HNLogQ3iRyOFnuHu7TI8XTapcPg/view?usp=sharing 
+
 
  # RESULTADO ESPERADO DA INTERFACE PARA MELHOR EXPERIÊNCIA  QUE OS CURSOS FICASSEM LADO A LADO : 
  <img width="1815" height="442" alt="image" src="https://github.com/user-attachments/assets/dccbf86a-7b40-4ff3-bcc3-123de3ddcee1" />
@@ -154,6 +155,9 @@ Erro de funcionalidade, impacto: bloqueio de fluxo pois se precisar excluir algu
 # RESULTADO ESPERADO: QUE OS DADOS DO CURSO APARECESSEM QUANDO VOCÊ CLICASSE
 
  Erro de funcionalidade, impacto: bloqueio de fluxo pois se precisar atualizar  alguma informação  cadastral  o aluno  não terá como assim  impedindo o fluxo de atualização dos dados cadastrais do aluno. 
+
+# VÍDEOS COM TODOS OS CENÁRIOS NEGATIVOS : 
+[Cenários Negativos e Validações](https://drive.google.com/file/d/17xQvivVEYRywlfjbWq2vy_XtpUUvcd7s/view?usp=sharing)
 
 
 
