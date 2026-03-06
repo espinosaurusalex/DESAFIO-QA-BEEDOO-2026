@@ -49,49 +49,68 @@ Endereço pode aceitar palavras que não sejam endereços físicos mas sim palav
 
 # PASSO A PASSO INVALIDAÇÃO DE CAMPOS : 
 1ª Página inicial 
+
 2 ª Clique em cadastrar curso 
+
 3 ª No campo de nome preencha com números 
+
 4 ª Clique  em cadastrar curso 
 
 # RESULTADO ESPERADO: O CAMPO  NOME SÓ ACEITAR LETRAS (NÃO ALCANÇADO)
 
 # PASSO A PASSO INVALIDAÇÃO DE CAMPOS : 
 1ª Página inicial 
+
 2 ª Clique em cadastrar curso 
+
 3 ª No campo de instrutor  preencha com números 
+
 4 ª Clique  em cadastrar curso 
 
 # RESULTADO ESPERADO: O CAMPO  INSTRUTOR  SÓ ACEITAR LETRAS (NÃO ALCANÇADO)
 
 # PASSO A PASSO INVALIDAÇÃO DE CAMPOS : 
 1ª Página inicial 
+
 2 ª Clique em cadastrar curso 
+
 3 ª No campo de descrição   preencha com números 
+
 4 ª Clique  em cadastrar curso 
 
 # RESULTADO ESPERADO: O CAMPO  DESCRIÇÃO   SÓ ACEITAR LETRAS (NÃO ALCANÇADO)
 
 # PASSO A PASSO INVALIDAÇÃO DE CAMPOS : 
 1ª Página inicial 
+
 2 ª Clique em cadastrar curso 
+
 3 ª No campo de endereço   preencha  somente com números 
+
 4 ª Clique  em cadastrar curso 
 
 # RESULTADO ESPERADO: O CAMPO ENDEREÇO    ACEITAR VALORES VÁLIDOS  (NÃO ALCANÇADO)
 
 # VALIDAÇÃO DE IMAGEM 
 1 ª Página inicial da aplicação 
+
 2 ª Cadastrar curso 
+
 3 ª Clicar em url da imagem 
+
 4 ª Copiar qualquer url  de qualquer aplicação
+
 5 ª Colar a url  que não é uma imagem 
+
 6 ª Clicar em cadastrar curso 
 
 # RESULTADO ESPERADO QUE SOMENTE LINKS DE IMAGEM SEJAM VÁLIDOS PARA O CAMPO (RESULTADO NÃO ALCANÇADO) 
 
 # PROBLEMA DE INTERFACE : 
 1ª Página inicial 
+
 2 ª Na aba de listar cursos
+
 3 ª Se você rolar a página para baixo e estiver com muitos cursos a página ficará dessa forma: 
 
 https://drive.google.com/file/d/1-JuF3HNLogQ3iRyOFnuHu7TI8XTapcPg/view?usp=sharing 
@@ -101,32 +120,40 @@ https://drive.google.com/file/d/1-JuF3HNLogQ3iRyOFnuHu7TI8XTapcPg/view?usp=shari
 
  # EXEMPLO DE INTERFACE COM OS CONTAINERS LADO A LADO DA PLATAFORMA UDEMY 
 
+
+
 # BUG DE EXCLUSÃO 
 
 ª1 Página inicial 
+
 2ª Cadastre qualquer curso 
+
 3ª Volte para a página de listagem de cursos
+
 4ª Tente excluir o curso 
 
 # RESULTADO ATUAL: O CURSO NÃO IRÁ SER EXCLUIDO, ELE PERMANECERÁ NA LISTAGEM 
 
 # RESULTADO ESPERADO: QUE O CURSO NÃO APARECESSE MAIS NA ABA DE LISTAGEM DE CURSOS 
 
-# Erro de funcionalidade, impacto: bloqueio de fluxo pois se precisar excluir algum curso para cadastrar outro não terá como impedindo o fluxo de atualização da aplicação 
+Erro de funcionalidade, impacto: bloqueio de fluxo pois se precisar excluir algum curso para cadastrar outro não terá como impedindo o fluxo de atualização da aplicação 
 
 
 # BUG DE VISUALIZAÇÃO 
 
 ª1 Página inicial 
+
 2ª Cadastre qualquer curso 
+
 3ª Volte para a página de listagem de cursos
+
 4ª Tente visualizar o curso   
 
 # RESULTADO ATUAL: O CURSO NÃO IRÁ SER VISUALIZADO, OS DADOS DELE ESTARÃO BLOQUEADOS PARA A CONSULTA
 
 # RESULTADO ESPERADO: QUE OS DADOS DO CURSO APARECESSEM QUANDO VOCÊ CLICASSE
 
-# Erro de funcionalidade, impacto: bloqueio de fluxo pois se precisar atualizar  alguma informação  cadastral  o aluno  não terá como assim  impedindo o fluxo de atualização dos dados cadastrais do aluno. 
+ Erro de funcionalidade, impacto: bloqueio de fluxo pois se precisar atualizar  alguma informação  cadastral  o aluno  não terá como assim  impedindo o fluxo de atualização dos dados cadastrais do aluno. 
 
 
 
