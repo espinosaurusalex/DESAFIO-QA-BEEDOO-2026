@@ -34,7 +34,9 @@ Campos podem ser ignorados e pode-se entregar o curso sem preenchimento de dados
 
 # PASSO A PASSO ;
  1ª  Clique em cadastrar curso  
+
  2ª Não preencha nenhum campo 
+ 
  3ª Clique em Cadastrar Curso 
 
  # RESULTADO ESPERADO: A APLICAÇÃO PEDIR PARA O USUÁRIO PREENCHER OS CAMPOS OBRIGATÓRIOS (NÃO ALCANÇADO) 
