@@ -156,16 +156,12 @@ Erro de funcionalidade, impacto: bloqueio de fluxo pois se precisar excluir algu
 
  Erro de funcionalidade, impacto: bloqueio de fluxo pois se precisar atualizar  alguma informação  cadastral  o aluno  não terá como assim  impedindo o fluxo de atualização dos dados cadastrais do aluno. 
 
-# VÍDEOS COM TODOS OS CENÁRIOS NEGATIVOS : 
+# VÍDEO COM TODOS OS CENÁRIOS NEGATIVOS : 
 [Cenários Negativos e Validações](https://drive.google.com/file/d/17xQvivVEYRywlfjbWq2vy_XtpUUvcd7s/view?usp=sharing)
 
 
 
 
-
-
-# TESTES DE TODOS ESSES CENARIOS
-: https://drive.google.com/file/d/17xQvivVEYRywlfjbWq2vy_XtpUUvcd7s/view?usp=sharing 
 
 
 
