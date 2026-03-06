@@ -108,7 +108,7 @@ Erro de funcionalidade, impacto: bloqueio de fluxo pois se precisar excluir algu
 
 
 
-Observação: deixei os bugs somente no github pois acredito que seja melhor por conta das descrições pedidas conforme o formulário. Mas todos os testes negativos se encontram no vídeo abaixo. 
+#  Observação :  deixei os bugs somente no github pois acredito que seja melhor por conta das descrições pedidas conforme o formulário. Mas todos os testes negativos se encontram no vídeo abaixo. 
 Deixei o problema de interface também porque queria dar uma sugestão de melhoria. 
 
 Melhoria que poderia ter na plataforma: acessibilidade para pessoas surdas e/ou mudas 
