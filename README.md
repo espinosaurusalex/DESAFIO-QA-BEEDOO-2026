@@ -19,7 +19,7 @@ Para realizar esse teste,
 
 # RESULTADO ESPERADO: O CURSO APARECERÁ NA LISTAGEM (ALCANÇADO) 
 
-https://drive.google.com/file/d/1sHPZ5_G4Jc6awA7IEc_so3B6bo0tl6YU/view?usp=sharing 
+
 
 
 # LISTAGEM:
