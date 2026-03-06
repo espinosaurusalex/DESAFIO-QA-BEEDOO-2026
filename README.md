@@ -12,6 +12,16 @@ para isso vá em cadastrar curso > preencha todos os campos corretamente e cliqu
 # Quais pontos do sistema você considera mais críticos para teste ? 
  Os pontos mais  críticos para mim foram os campos de seção que não são obrigatórios e te permitem cadastrar o curso sem nenhum dado, também o de datas antigas que te permite colocar uma data de término anterior a do início e o contrário também é verdade te permite fazer uma data de início posterior a data de término. 
 
+
+
+
+### PLANILHA COM TODOS OS TESTES FEITOS: 
+[Testes](https://docs.google.com/spreadsheets/d/1s_RWD_LDLQcjtSbKFMWoC29V2wF_irup5TOS6ehNhac/edit?usp=sharing)
+
+
+
+
+
  # TESTE DE FLUXO : 
 [Fluxo cadastro com sucesso](https://drive.google.com/file/d/1320PlBktSbW9gi9s6HKq2eTyHXJsBWc4/view?usp=sharing)
 
@@ -37,10 +47,8 @@ Endereço pode aceitar palavras que não sejam endereços físicos mas sim palav
 
 
 
-### PLANILHA COM TODOS OS TESTES FEITOS: 
-[Testes](https://docs.google.com/spreadsheets/d/1s_RWD_LDLQcjtSbKFMWoC29V2wF_irup5TOS6ehNhac/edit?usp=sharing)
-
-
+# VÍDEO COM TODOS OS CENÁRIOS NEGATIVOS : 
+[Cenários Negativos e Validações](https://drive.google.com/file/d/17xQvivVEYRywlfjbWq2vy_XtpUUvcd7s/view?usp=sharing) 
 
 
 
@@ -62,12 +70,6 @@ Endereço pode aceitar palavras que não sejam endereços físicos mas sim palav
  # EXEMPLO DE INTERFACE COM OS CONTAINERS LADO A LADO DA PLATAFORMA UDEMY 
 
 
-
-
-Observação: deixei os bugs somente no github pois acredito que seja melhor por conta das descrições pedidas conforme o formulário. Mas todos os testes negativos se encontram no vídeo abaixo. 
-Deixei o problema de interface também porque queria dar uma sugestão de melhoria. 
-
-Melhoria que poderia ter na plataforma: acessibilidade para pessoas surdas e/ou mudas
 
 
 
@@ -104,8 +106,15 @@ Erro de funcionalidade, impacto: bloqueio de fluxo pois se precisar excluir algu
 
  Erro de funcionalidade, impacto: bloqueio de fluxo pois se precisar atualizar  alguma informação  cadastral  o aluno  não terá como assim  impedindo o fluxo de atualização dos dados cadastrais do aluno. 
 
-# VÍDEO COM TODOS OS CENÁRIOS NEGATIVOS : 
-[Cenários Negativos e Validações](https://drive.google.com/file/d/17xQvivVEYRywlfjbWq2vy_XtpUUvcd7s/view?usp=sharing)
+
+
+Observação: deixei os bugs somente no github pois acredito que seja melhor por conta das descrições pedidas conforme o formulário. Mas todos os testes negativos se encontram no vídeo abaixo. 
+Deixei o problema de interface também porque queria dar uma sugestão de melhoria. 
+
+Melhoria que poderia ter na plataforma: acessibilidade para pessoas surdas e/ou mudas 
+
+Obrigado pela oportunidade 
+
 
 
 
